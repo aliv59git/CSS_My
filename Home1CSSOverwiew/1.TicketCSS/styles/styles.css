@@ -1,0 +1,43 @@
+﻿body{
+    background-color: white;
+}
+
+table{
+    border:none;
+    font-family:Arial;
+    font-size:14px;
+    width: 396px;
+    height: 277px;
+    background-color: #5A5A5A;}
+
+.first{
+    width: 125px;
+    font-style:italic;
+    color: #D1D2D2;
+}
+.second{
+    color:#FFF2B2;
+}
+img{
+    width:14px;
+}
+th, td{
+    padding: 8px 4px;
+}
+th{
+    color:#BBB;
+    font-size:1.6em;
+    text-align:left;
+    font-weight:normal;
+}
+strong{
+    color:red;
+}
+.middle{
+    color:#ADBAA9;
+}
+#last{
+    font-weight:bold;
+    color:#E06B1E;
+}
+

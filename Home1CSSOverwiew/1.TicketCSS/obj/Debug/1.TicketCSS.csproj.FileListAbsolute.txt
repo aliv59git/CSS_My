@@ -1,0 +1,6 @@
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\bin\1.TicketCSS.dll.config
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\bin\1.TicketCSS.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\bin\1.TicketCSS.pdb
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\obj\Debug\1.TicketCSS.csprojResolveAssemblyReference.cache
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\obj\Debug\1.TicketCSS.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\1.TicketCSS\obj\Debug\1.TicketCSS.pdb
