@@ -1,0 +1,5 @@
+F:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\2.InternationalEmployees\bin\2.InternationalEmployees.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\2.InternationalEmployees\bin\2.InternationalEmployees.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\2.InternationalEmployees\bin\2.InternationalEmployees.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\2.InternationalEmployees\obj\Debug\2.InternationalEmployees.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home1CSSOverwiew\2.InternationalEmployees\obj\Debug\2.InternationalEmployees.pdb
