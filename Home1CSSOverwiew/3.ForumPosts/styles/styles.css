@@ -17,14 +17,12 @@ article header>h1{
 ul{
     list-style-type:none;
     text-align:center;
+    font-size:2em;
     font-weight:bold;
-    font-size: 2em;
     color: white;
 }
 ul li a{
     text-decoration:none;
-    text-align:center;
-    font-weight:bold;
     color: white;
 }
 .current{
@@ -32,9 +30,7 @@ ul li a{
 }
 ul li:last-child {
     text-decoration:underline;
-    text-align: center;
-    font-weight: bold;
-    color: white;
+
 }
 p {
     text-align: left;
@@ -45,9 +41,6 @@ p {
 p>a{
     text-decoration:none;
     color: black;
-}
-summary{
-    font-size:1.30em;
 }
 footer>p{
     font-size:1.04em;
