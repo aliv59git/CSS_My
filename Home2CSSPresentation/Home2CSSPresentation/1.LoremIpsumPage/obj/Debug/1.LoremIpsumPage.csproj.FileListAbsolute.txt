@@ -1,0 +1,6 @@
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\bin\1.LoremIpsumPage.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\bin\1.LoremIpsumPage.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\bin\1.LoremIpsumPage.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\obj\Debug\1.LoremIpsumPage.csprojResolveAssemblyReference.cache
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\obj\Debug\1.LoremIpsumPage.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\1.LoremIpsumPage\obj\Debug\1.LoremIpsumPage.pdb
