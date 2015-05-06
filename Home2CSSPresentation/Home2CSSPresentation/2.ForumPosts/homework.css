@@ -68,33 +68,30 @@ body {
 
                 body header div#header-container div#reg-form-container div input {
                     width: 130px;
-                    border: 1px solid #603382;
+                    border: 2px solid #603382;
                     border-radius: 10px;
                     padding: 2px 5px;
                     margin: 5px;
                 }
 
                     body header div#header-container div#reg-form-container div input#tb-password {
-                        background-color: #b153dd;
+                        background-color: #B35EF3;
+                        
                     }
 
                     body header div#header-container div#reg-form-container div input#tb-username {
-                        background-color: #b153dd;
+                        background-color: #B35EF3;
                     }
 
             body header div#header-container div#reg-form-container button {
                 margin-left: auto;
                 margin-right: auto;
                 font-weight: bold;
-                border: 1.5px solid #603382;
+                border: 2px solid #603382;
                 border-style: outset;
-                border-top-color: #c394fc;
-                border-left-color: #c394fc;
-                border-bottom-color: #65527d;
-                border-right-color: #65527d;
                 border-radius: 10px;
                 padding: 5px 8px;
-                background-color: #a667d1;
+                background-color: #B35EF3;
                 color: white;
             }
 
@@ -108,7 +105,7 @@ body {
             width: 75%;
             margin: 20px 20px 20px 20px;
             padding: 12px;
-            border: 1px solid #000;
+            border: 2px solid #000;
             border-radius: 15px;
         }
 
@@ -173,14 +170,11 @@ body {
         body section article {
             margin: 20px;
             padding: 20px;
-            border: 1px solid black;
+            border: 2px solid black;
             border-radius: 12px;
         }
 
-            body section article header {
-                background: none;
-                padding: 5px;
-            }
+
 
                 body section article header h1 {
                     font-size: 1.4em;
@@ -203,7 +197,7 @@ body {
 
                     body section article footer p a {
                         text-decoration: none;
-                        color: #b5c7f3;
+                        color: #de77ab;
                     }
 
                         body section article footer p a:hover {
@@ -223,7 +217,7 @@ body {
             body aside > ul > li {
                 margin: 15px 0;
                 padding: 15px;
-                border: 1px solid black;
+                border: 2px solid black;
                 border-radius: 5px;
             }
 
@@ -262,7 +256,7 @@ body {
                     margin-top: 10px;
                     margin-right: 0;
                     margin-bottom: 10px;
-                    margin-left: 0px;
+                    margin-left: 0;
                 }
 
                     body aside > ul > li ul li {

@@ -1,0 +1,5 @@
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\4.Calculator\bin\4.Calculator.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\4.Calculator\bin\4.Calculator.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\4.Calculator\bin\4.Calculator.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\4.Calculator\obj\Debug\4.Calculator.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home2CSSPresentation\Home2CSSPresentation\4.Calculator\obj\Debug\4.Calculator.pdb

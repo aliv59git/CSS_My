@@ -65,7 +65,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="03.ThirdItemCSS.html" />
+    <Content Include="NestedDivs.html" />
     <Content Include="styles\index.css" />
     <Content Include="Web.config" />
   </ItemGroup>

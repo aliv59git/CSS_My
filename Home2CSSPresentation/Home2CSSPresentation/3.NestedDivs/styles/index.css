@@ -1,14 +1,16 @@
 ﻿body {
     display:block;
 }
-section{
-    width:1300px;
-}
 
 div{
     display:block;
-    padding-right: 3.5%;
-    border:1px solid red;
+    width: 96.5%;
+    border: 2px solid red;
     background-color:black;
     border-radius:60px;
 }
+.hidden{
+    border: 0 solid red;
+    border-radius: 60px 0 0 60px;
+}
+
