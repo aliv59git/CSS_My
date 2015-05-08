@@ -4,3 +4,9 @@ D:\VS\CSS_N\CSS_My\CSS_My\Home4CSSLayout\1.ThreeView\bin\1.ThreeView.pdb
 D:\VS\CSS_N\CSS_My\CSS_My\Home4CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.csprojResolveAssemblyReference.cache
 D:\VS\CSS_N\CSS_My\CSS_My\Home4CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.dll
 D:\VS\CSS_N\CSS_My\CSS_My\Home4CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\bin\1.ThreeView.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\bin\1.ThreeView.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\bin\1.ThreeView.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.csprojResolveAssemblyReference.cache
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\1.ThreeView\obj\Debug\1.ThreeView.pdb
