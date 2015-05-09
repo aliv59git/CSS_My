@@ -1,0 +1,30 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+ul {
+    color:black;
+    list-style-type: none;
+    margin: 5px;
+}
+
+ul li ul.hidden {
+    position: relative;
+    display: none;
+}
+a{
+    text-decoration:none;
+    &:hover{
+        text-decoration:underline;
+    }
+}
+
+ul li:hover ul.hidden {
+    display: block;
+    padding-left:8px;
+}
+a[title="sublist"]{
+            color:#8F96A6;
+        }

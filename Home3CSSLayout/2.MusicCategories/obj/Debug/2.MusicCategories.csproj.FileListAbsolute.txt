@@ -1,0 +1,6 @@
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\bin\2.MusicCategories.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\bin\2.MusicCategories.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\bin\2.MusicCategories.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\obj\Debug\2.MusicCategories.csprojResolveAssemblyReference.cache
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\obj\Debug\2.MusicCategories.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\2.MusicCategories\obj\Debug\2.MusicCategories.pdb

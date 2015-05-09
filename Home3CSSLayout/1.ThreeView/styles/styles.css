@@ -1,10 +1,7 @@
 ﻿body {
-  color: black;
-  border: none;
-  background-color: none;
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 24px;
 }
 ul {
   color: black;
@@ -14,7 +11,6 @@ ul {
 ul li ul.hidden {
   position: relative;
   display: none;
-  color: #8F96A6;
 }
 a {
   text-decoration: none;
@@ -22,11 +18,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
-a:hover.hidden {
-  color: #8F96A6;
-}
 ul li:hover ul.hidden {
   display: block;
   padding-left: 8px;
+}
+a[title="sublist"] {
+  color: #8F96A6;
 }
 /*# sourceMappingURL=styles.css.map */
