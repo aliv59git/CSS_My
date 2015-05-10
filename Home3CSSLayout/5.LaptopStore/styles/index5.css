@@ -1,0 +1,30 @@
+﻿body, div, p, input, img, {
+    padding:0;
+    margin: 0;
+
+}
+h1{
+    color:#a7dede;
+    font-family:Arial, Tahoma, Georgia;
+    font-weight:bold;
+    text-align:left;
+    margin-left:50px;
+}
+body div{
+    border:3px solid #006262;
+    border-radius:4px;
+    width:500px;
+    height: 600px;
+    position:relative;
+}
+body div.right{
+    boder:none;
+    position:absolute;
+    top:80px;
+    left:520px;
+    width:300px;
+}
+hr{
+    height:3px;
+    color:#006262;
+}

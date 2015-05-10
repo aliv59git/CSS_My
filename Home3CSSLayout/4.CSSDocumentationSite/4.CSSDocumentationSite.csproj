@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6871F91D-EF31-4427-AC72-F15AE9B33EBF}</ProjectGuid>
+    <ProjectGuid>{45EFD912-5EDE-4A9C-8AD6-065198A1B2A3}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3.MembersLogin</RootNamespace>
-    <AssemblyName>3.MembersLogin</AssemblyName>
+    <RootNamespace>_4.CSSDocumentationSite</RootNamespace>
+    <AssemblyName>4.CSSDocumentationSite</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -57,10 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="styles\styles.css.map">
-      <DependentUpon>styles.css</DependentUpon>
-    </Content>
-    <Content Include="styles\styles.less" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -69,19 +65,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MembersLogin.html" />
-    <Content Include="scripts\less-1.7.0.min.js" />
-    <Content Include="styles\styles.css" />
-    <Content Include="styles\styles.min.css">
-      <DependentUpon>styles.css</DependentUpon>
-    </Content>
+    <Content Include="04.CSSTutorial.html" />
+    <Content Include="images\home.png" />
+    <Content Include="images\logocss.gif" />
+    <Content Include="styles\index1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -96,9 +87,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>1524</DevelopmentServerPort>
+          <DevelopmentServerPort>1345</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:1524/</IISUrl>
+          <IISUrl>http://localhost:1345/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

@@ -1,0 +1,5 @@
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\5.LaptopStore\bin\5.LaptopStore.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\5.LaptopStore\bin\5.LaptopStore.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\5.LaptopStore\bin\5.LaptopStore.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\5.LaptopStore\obj\Debug\5.LaptopStore.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\5.LaptopStore\obj\Debug\5.LaptopStore.pdb
