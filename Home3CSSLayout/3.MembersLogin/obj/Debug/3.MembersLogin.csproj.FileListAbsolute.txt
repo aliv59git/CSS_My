@@ -10,3 +10,9 @@ C:\Users\LuboAtan\Documents\Visual Studio 2012\CSS_N\CSS_My\CSS_My\Home3CSSLayou
 C:\Users\LuboAtan\Documents\Visual Studio 2012\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.csprojResolveAssemblyReference.cache
 C:\Users\LuboAtan\Documents\Visual Studio 2012\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.dll
 C:\Users\LuboAtan\Documents\Visual Studio 2012\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.pdb
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\bin\3.MembersLogin.dll.config
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\bin\3.MembersLogin.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\bin\3.MembersLogin.pdb
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.csprojResolveAssemblyReference.cache
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home3CSSLayout\3.MembersLogin\obj\Debug\3.MembersLogin.pdb
