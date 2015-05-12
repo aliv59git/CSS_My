@@ -4,3 +4,9 @@ D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\bin\1.ForumPost.pdb
 D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.csprojResolveAssemblyReference.cache
 D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.dll
 D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\bin\1.ForumPost.dll.config
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\bin\1.ForumPost.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\bin\1.ForumPost.pdb
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.csprojResolveAssemblyReference.cache
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.dll
+F:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\1.ForumPost\obj\Debug\1.ForumPost.pdb
