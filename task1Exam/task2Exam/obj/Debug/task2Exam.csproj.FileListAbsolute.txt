@@ -1,0 +1,11 @@
+C:\Users\Atanas\Documents\Visual Studio 2012\Projects\task1Exam\task2Exam\bin\task2Exam.dll
+C:\Users\Atanas\Documents\Visual Studio 2012\Projects\task1Exam\task2Exam\bin\task2Exam.pdb
+C:\Users\Atanas\Documents\Visual Studio 2012\Projects\task1Exam\task2Exam\obj\Debug\task2Exam.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\Visual Studio 2012\Projects\task1Exam\task2Exam\obj\Debug\task2Exam.dll
+C:\Users\Atanas\Documents\Visual Studio 2012\Projects\task1Exam\task2Exam\obj\Debug\task2Exam.pdb
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\bin\task2Exam.dll.config
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\bin\task2Exam.dll
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\bin\task2Exam.pdb
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\obj\Debug\task2Exam.csprojResolveAssemblyReference.cache
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\obj\Debug\task2Exam.dll
+D:\VS\CSS\CSS_Exam\task1Exam\task2Exam\obj\Debug\task2Exam.pdb
