@@ -1,0 +1,46 @@
+﻿body {
+    background-color:#a9a9a9;
+}
+
+header, footer {
+    text-align:center;
+}
+
+ul {
+    list-style:none;
+}
+
+article header {
+    text-align:left;
+}
+
+article > footer {
+    text-align: left;
+}
+
+h1 {
+    color:#fafad2;
+}
+
+a {
+    text-decoration:none;
+    color:black;
+}
+
+nav a {
+    color:#ffffff;
+    font-size:1.2em;
+    font-weight:bold;
+}
+
+nav a:hover {
+    background-color:#d3d3d3;
+}
+
+li:nth-last-child(1) a {
+    text-decoration:underline;
+}
+
+li:nth-last-child(3) a {
+    background-color:#d3d3d3;
+}

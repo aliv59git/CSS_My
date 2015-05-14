@@ -1,0 +1,58 @@
+﻿body {
+    font-size:16px;
+    font-family:Arial;
+}
+table {
+    background-color:#595959;
+}
+.details {
+    font-style:italic;
+    color:white;
+    font-size:0.9em;
+}
+
+#active {
+    color:red;
+    font-size:0.8em;
+    font-weight:bold;
+}
+
+#name {
+    color:#eae9a3;
+}
+
+.one {
+    color:#eae9a3;
+}
+
+th {
+    font-size:1.5em;
+    font-weight:normal;
+    text-align: left;
+    color:#949494;
+}
+
+.two {
+    color:#949494;
+}
+
+#status {
+    color:orange;
+    font-size:0.8em;
+    font-weight:bold;
+}
+
+table {
+    border-spacing:0.8em;
+}
+
+#colone {
+    width:120px;
+}
+
+span.circle {
+    border-radius:50%;
+    width:2px;
+    height:2px;
+    background-color:#48b256;
+}
