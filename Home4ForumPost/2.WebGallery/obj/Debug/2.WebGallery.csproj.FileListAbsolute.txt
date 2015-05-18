@@ -1,0 +1,6 @@
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\bin\2.WebGallery.dll.config
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\bin\2.WebGallery.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\bin\2.WebGallery.pdb
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\obj\Debug\2.WebGallery.csprojResolveAssemblyReference.cache
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\obj\Debug\2.WebGallery.dll
+D:\VS\CSS_N\CSS_My\CSS_My\Home4ForumPost\2.WebGallery\obj\Debug\2.WebGallery.pdb
