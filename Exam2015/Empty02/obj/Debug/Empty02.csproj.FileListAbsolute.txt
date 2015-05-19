@@ -1,0 +1,6 @@
+C:\tmp1\CSS_My\Exam2015\Empty02\bin\Empty02.dll.config
+C:\tmp1\CSS_My\Exam2015\Empty02\bin\Empty02.dll
+C:\tmp1\CSS_My\Exam2015\Empty02\bin\Empty02.pdb
+C:\tmp1\CSS_My\Exam2015\Empty02\obj\Debug\Empty02.csprojResolveAssemblyReference.cache
+C:\tmp1\CSS_My\Exam2015\Empty02\obj\Debug\Empty02.dll
+C:\tmp1\CSS_My\Exam2015\Empty02\obj\Debug\Empty02.pdb

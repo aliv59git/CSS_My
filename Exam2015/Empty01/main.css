@@ -1,0 +1,28 @@
+body{
+    font-size: 14px;
+    font-family: "Arial";
+    background-color:#205D99;
+
+    #root{
+             width:500px;
+             height:630px;
+         }
+
+         input[type=radio]{
+             display:none;
+         }
+         div.peview 
+
+    #root ul{
+            list-style-type:none;
+         }
+
+
+            ul li label{
+                color:#AECFEE;
+                font-size:1.2em;
+                text-align:center;
+            }
+
+
+}
